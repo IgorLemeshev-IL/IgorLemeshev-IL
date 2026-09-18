@@ -1,6 +1,6 @@
 # 👋 Привет, я Игорь
 
-### `Middle+ Python Developer` · Backend · Distributed Systems · AI/RAG
+### `Python Developer` · Backend · Distributed Systems · AI/RAG
 
 Разрабатываю backend-системы на **Python** — от Django-монолитов до распределённых сервисов.
 
